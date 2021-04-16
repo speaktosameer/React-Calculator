@@ -1,5 +1,6 @@
 {
   "name": "calculator",
+  "homepage":"https://speaktosameer.github.io/React-Calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
